@@ -18,7 +18,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock Market Analyst
 
-![alt=""](Images/stockmarket.jpg)
 
 ## Instructions
 
@@ -36,13 +35,11 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 The result should match the following image:
 
-![moderate_solution](Images/moderate_solution.png)
 
 ## Bonus
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-![hard_solution](Images/hard_solution.png)
 
 Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
@@ -64,10 +61,3 @@ To submit, please upload the following to GitHub:
 
 Be sure to commit regularly to your repository and that it contains a README.md file.
 
-After saving your work, create a shareable link and submit the link to <https://bootcampspot-v2.com/>.
-
-## Rubric
-
-[Unit 2 Rubric - VBA Homework - The VBA of Wall Street](https://docs.google.com/document/d/1OjDM3nyioVQ6nJkqeYlUK7SxQ3WZQvvV3T9MHCbnoWk/edit?usp=sharing)
-
-## References
