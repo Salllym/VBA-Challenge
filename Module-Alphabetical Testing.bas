@@ -31,8 +31,8 @@ Dim WS As Worksheet
         
         'Set Initial Open Price
         Open_Price = Cells(2, Column + 2).Value
-         ' Loop through all ticker symbol
-        
+
+         ' Loop through all ticker symbol        
         For i = 2 To LastRow
          'Check if we are still within the same ticker symbol, if it is not...
            If Cells(i + 1, Column).Value <> Cells(i, Column).Value Then
