@@ -8,9 +8,9 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Files
 
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
+* [Test Data](https://docs.google.com/spreadsheets/d/1R11XYttakv2qdKjh9vnxryQBTnogepQp/edit?usp=sharing&ouid=101500589655888677304&rtpof=true&sd=true) - Use this while developing your scripts.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](https://drive.google.com/file/d/1ij29MGBPUCORnyZUx0POns2UmhkjGOsd/view?usp=sharing) - Run your scripts on this data to generate the final homework report.
 
 ### Stock Market Analyst
 
