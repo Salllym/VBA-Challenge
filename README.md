@@ -2,7 +2,7 @@
 
 ## Background
 
-You will use VBA scripting to analyze generated stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+You will use VBA scripting to analyze generated stock market data.
 
 
 
