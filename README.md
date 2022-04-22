@@ -1,14 +1,6 @@
 # The VBA of Wall Street
 
-VBA scripting was used to analyze generated stock market data.
-
-
-
-The following data files were used:
-
-* [Test Data](https://docs.google.com/spreadsheets/d/1R11XYttakv2qdKjh9vnxryQBTnogepQp/edit?usp=sharing&ouid=101500589655888677304&rtpof=true&sd=true) - Used while developing scripts.
-
-* [Stock Data](https://drive.google.com/file/d/1ij29MGBPUCORnyZUx0POns2UmhkjGOsd/view?usp=sharing) - Ran scripts on this data to generate the final report.
+VBA scripting was used to analyze generated stock market data.The [Test Data](https://docs.google.com/spreadsheets/d/1R11XYttakv2qdKjh9vnxryQBTnogepQp/edit?usp=sharing&ouid=101500589655888677304&rtpof=true&sd=true) file was used while developing the script and the script was used to run on the [Stock Data](https://drive.google.com/file/d/1ij29MGBPUCORnyZUx0POns2UmhkjGOsd/view?usp=sharing) file to generate the final report.  
 
 
 
