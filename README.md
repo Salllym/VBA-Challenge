@@ -1,23 +1,16 @@
-# VBA-Challenge- The VBA of Wall Street
+# The VBA of Wall Street
 
-## Background
-
-You will use VBA scripting to analyze generated stock market data.
+VBA scripting was used to analyze generated stock market data.
 
 
+The following data files were used:
 
-### Files
+* [Test Data](https://docs.google.com/spreadsheets/d/1R11XYttakv2qdKjh9vnxryQBTnogepQp/edit?usp=sharing&ouid=101500589655888677304&rtpof=true&sd=true) - Used while developing scripts.
 
-* [Test Data](https://docs.google.com/spreadsheets/d/1R11XYttakv2qdKjh9vnxryQBTnogepQp/edit?usp=sharing&ouid=101500589655888677304&rtpof=true&sd=true) - Use this while developing your scripts.
-
-* [Stock Data](https://drive.google.com/file/d/1ij29MGBPUCORnyZUx0POns2UmhkjGOsd/view?usp=sharing) - Run your scripts on this data to generate the final homework report.
-
-### Stock Market Analyst
+* [Stock Data](https://drive.google.com/file/d/1ij29MGBPUCORnyZUx0POns2UmhkjGOsd/view?usp=sharing) - Ran scripts on this data to generate the final report.
 
 
-## Instructions
-
-Create a script that loops through all the stocks for one year and outputs the following information:
+A script that loops through all the stocks for one year and outputs the following information was created:
 
   * The ticker symbol.
 
@@ -27,16 +20,9 @@ Create a script that loops through all the stocks for one year and outputs the f
 
   * The total stock volume of the stock.
 
-**Note:** Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+Functionality was added to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 
-
-
-## Bonus
-
-Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
-
-
-Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
+Appropriate adjustments were made to the VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
 
 
