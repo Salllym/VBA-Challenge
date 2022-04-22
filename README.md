@@ -15,7 +15,7 @@ The created script loops through all the stocks for one year and outputs the fol
 
   * The total stock volume of the stock.
 
-![2020](Stock_data/Stock Data Results/2020.png) 
+![2020](Stock_data/Stock_Data_Results/2020.png) 
 
 Functionality was added to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". Also, appropriate adjustments were made to the VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
